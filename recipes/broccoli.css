@@ -1,0 +1,21 @@
+img {
+    height: 400px;
+}
+li {
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 20px;
+}
+
+ul,ol{
+    background-color: green;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+body{
+    background-color: black;
+}
+h1,h2{
+    color: green;
+}
+
